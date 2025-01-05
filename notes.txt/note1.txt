@@ -1,0 +1,59 @@
+// import React from 'react'
+
+// const App = () => {
+
+//   const name = 'John';
+//   const x = 10;
+//   const y = 20;
+//   const names = ['Brad', 'Mary', 'Joe', 'sara'];
+//   const loggedIn = true;
+//   const styles = {
+//     color: 'red',
+//     fontSize: '55px'
+//   }
+
+//   return (
+//     <>
+//     <div classNameName='text-5xl'>App</div>
+//     <p style={styles}>Hello {name} </p>
+//     <p>The sum of {x} and y is {x + y} </p>
+//     <ul>
+//       {names.map( (name) => (
+//         <li>{name}</li>
+//       ))}
+//     </ul>
+//     {loggedIn && <h1>Hello Member</h1>}
+//     </>
+//   );
+// };
+
+// export default App
+
+// rafce
+//npm run dev
+
+/* {loggedIn ? <h1>Hello Member</h1> : <h1>Hello Guest</h1> } 
+
+Instead of using a ternary you can use && for using the same operator 
+
+
+<p style={{color: 'red', fontSize: '24px'}}>Hello {name} </p>
+
+1)props are the attributes of components 
+
+2)In React, rendering is the process of converting components into HTML elements that a browser can display to the user
+
+3)map method to create a list and then iterate over that list 
+
+4)two types of states , component and app level states or global state which relates to the entire app and then you can pass it down to the components
+
+5)npm i react-icons
+
+6)icon is itself a component
+
+7) npm i react-router-dom
+(npm - node package manager)
+
+
+
+*/

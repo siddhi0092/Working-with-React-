@@ -54,8 +54,9 @@ Instead of using a ternary you can use && for using the same operator
 7) npm i react-router-dom
 (npm - node package manager)
 
+8) Extremely case sensitive 
 
-
+9)JSON Server setup : https://www.npmjs.com/package/json-server
 
 
 */
